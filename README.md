@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with finding a career at the moment. If you have any advice for me I'd be happy to hear it. I'm looking for my first job as a software engineer   and am super exicted to start my career and get to work! 
 - 📫 How to reach me:
   jakemiller.bc@gmail.com ,
-  https://www.linkedin.com/in/jakemiller87/
+  https://www.linkedin.com/in/jakemiller87
 - ⚡ Fun fact: I am now a software engineer because of a bachelor party. A little over a year ago I was at a low point in life because my career path was headed down the drain of hopes and dreams and I was unsure of a new direction to pursue. And then, going to a weekend bachelor party on the Lake of the Ozarks with 12 guys, magic happened! A late night conversation drinking Busch latte and smoking cigars turned into a conversation about my future. Two of the guys there were software engineers and convinced me that coding was my way out of that drain and into a better life. The cement in the deal was when one, Brian, said that I was too smart to be doing maintenance in a county prison. Sometimes compliments like that unlock the vault you have been keeping your life in. And now, here I am a year later a full stack developer in three different stacks. 
 
