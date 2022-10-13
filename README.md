@@ -8,3 +8,11 @@
   https://www.linkedin.com/in/jakemiller87
 - ⚡ Fun fact: I am now a software engineer because of a bachelor party. A little over a year ago I was at a low point in life because my career path was headed down the   drain of hopes and dreams and I was unsure of a new direction to pursue. And then, going to a weekend bachelor party on the Lake of the Ozarks with 12 guys, magic       happened! A late night conversation drinking Busch latte and smoking cigars turned into a conversation about my future. Two of the guys there were software engineers     and convinced me that coding was my way out of that drain and into a better life. The cement in the deal was when one, Brian, said that I was too smart to be doing       maintenance in a county prison. Sometimes compliments like that unlock the vault you have been keeping your life in. And now, here I am a year later a full stack         developer in three different stacks. 
 
+**Deployed Websites:**
+
+  ⚡**CBA Solution** - http://54.161.193.73/  
+  ![cbasolution](https://user-images.githubusercontent.com/98436247/195722796-4738a32b-1964-4fcc-b6b8-1b2325c81626.png)
+
+
+  ⚡**CodeTube** - http://mycodetube.com/
+    ![image](https://user-images.githubusercontent.com/98436247/195722977-ada36181-75ab-4a4d-b7a2-2473ae0458ef.png)
