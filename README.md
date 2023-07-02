@@ -10,7 +10,7 @@
 
 **Deployed Websites:**
 
-  ⚡**CBA Solution** - http://54.161.193.73/  
+  ⚡**CBA Solution** - Video Walk-Through: https://www.youtube.com/watch?v=QWEowwjevWk 
   ![cbasolution](https://user-images.githubusercontent.com/98436247/195722796-4738a32b-1964-4fcc-b6b8-1b2325c81626.png)
 
 
